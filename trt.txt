@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 HD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_1.png" group-title="TR/ ULUSAL TV [HD]",TRT 1 HD
+http://185.53.90.98:8080/ajgRQ7YgSp/2FUty8H8dv/20484
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1 FHD" tvg-logo="http://apkx.xyz/tv-tum-dunya-logolar/logolar/tv-tum-dunya-logolar/turkeyT/trt_1.png" group-title="TR/ ULUSAL TV [FHD]",TRT 1 FHD
+http://185.53.90.98:8080/ajgRQ7YgSp/2FUty8H8dv/358053
